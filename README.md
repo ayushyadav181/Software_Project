@@ -9,7 +9,7 @@
 There are several ways of editing your application.
 
 
-Simply clone this repo the (https://github.com/ayushyadav181/digital-shelf-cart.git) and start prompting.
+Simply clone this repo the (https://github.com/ayushyadav181/Software_Project.git) and start prompting.
 
 
 **Use your preferred IDE**
