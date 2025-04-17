@@ -118,7 +118,7 @@ const Footer = () => {
         
         <div className="mt-10 border-t border-border pt-6 text-center">
           <p className="text-xs text-muted-foreground flex items-center justify-center">
-            Made with <Heart size={12} className="mx-1 text-red-500" /> by BookVerse. &copy; {new Date().getFullYear()}
+            Made with <Heart size={12} className="mx-1 text-red-500" /> by Ayush Yadav. &copy; {new Date().getFullYear()}
           </p>
           <div className="mt-2 flex justify-center space-x-6 text-xs text-muted-foreground">
             <Link to="/privacy" className="hover:text-primary transition-colors">
